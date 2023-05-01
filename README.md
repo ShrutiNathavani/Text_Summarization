@@ -81,6 +81,9 @@ We believe that our summarization tool can be further improved by incorporating 
 
 We welcome contributions to this project. To contribute, please follow the standard Github workflow and create a pull request.
 
+## License
+
+This project is licensed under the MIT License - see the LICE file for details.
 
 ## Acknowledgements
 

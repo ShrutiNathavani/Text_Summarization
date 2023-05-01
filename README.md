@@ -83,7 +83,7 @@ We welcome contributions to this project. To contribute, please follow the stand
 
 ## License
 
-This project is licensed under the MIT License - see the LICE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 

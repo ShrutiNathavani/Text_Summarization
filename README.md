@@ -1,6 +1,6 @@
 # Text_Summarization
 
-# prerequisites
+# Prerequisites
 Before using this code, you must be having the following libraries installed on your local computer;
 
 sumy

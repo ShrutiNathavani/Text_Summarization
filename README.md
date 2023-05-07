@@ -3,21 +3,19 @@
 # Prerequisites
 Before using this code, you must be having the following libraries installed on your local computer;
 
-sumy
+pip install sumy
 
-gensim
+pip install spacy
 
-pypdf2
+pip install nltk
 
-All the necessary transformers
+pip install transformers
 
-spacy
+pip intall pypdf2
 
-heapq
+pip install gensim
 
-nltk
-
-string
+pip install heapq
 
 
 ## OverView:

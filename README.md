@@ -3,12 +3,19 @@
 # prerequisites
 Before using this code, you must be having the following libraries installed on your local computer;
 sumy
+
 gensim
+
 pypdf
+
 All the necessary transformers
+
 spacy
+
 heapq
+
 nltk
+
 string
 
 

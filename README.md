@@ -7,7 +7,7 @@ sumy
 
 gensim
 
-pypdf
+pypdf2
 
 All the necessary transformers
 

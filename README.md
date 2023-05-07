@@ -19,8 +19,6 @@ nltk
 string
 
 
-The input text can be in the form of a text entry, URL, or a PDF document. 
-
 ## OverView:
 
 Text summarization is a challenging task that can be time-consuming and difficult for humans to perform, particularly when dealing with large amounts of text.
@@ -31,6 +29,7 @@ These techniques helped us to prepare the input text for summarization and impro
 
 In addition to the preprocessing methodology, results, analysis, and future work, our summarization tool allows users to input text in three different ways: 
 text entries, URLs, and PDF documents. 
+
 This makes our tool versatile and accessible to users who may have different types of input data.
 
 ## Results and Analysis
